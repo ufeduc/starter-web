@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ugur firat ugur@git.training @awesomejt
 
 # THANKS
 
