@@ -20,7 +20,8 @@ file system.
 ## How To Contribute
 Use your imagination
 As you can see nothing is real
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2014 Git.Training.Extended
+2014 Git.Training.Extended double time
