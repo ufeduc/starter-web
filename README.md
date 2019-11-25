@@ -23,4 +23,4 @@ As you can see nothing is real
 
 ## Copyright
 
-2014 Git.Training.
+2014 Git.Training.Extended
